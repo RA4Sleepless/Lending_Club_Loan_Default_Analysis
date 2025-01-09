@@ -1,2 +1,2 @@
 # Lending_Club_Loan_Default_Analysis
-This repository is created to store the loan default analysis project that I've done as a graduation requirement of Dibimbing.id's Data Science bootcamp.
+This project attempts to examine and analyze the publicly available default dataset of Lending Club's loans starting from 2007 through 2018, the end goal is to build a machine learning model that could accurately predict the likelihood of loan default using known borrower characteristics.
