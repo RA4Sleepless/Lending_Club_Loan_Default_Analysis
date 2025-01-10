@@ -109,7 +109,7 @@ Explanatory Variable Descriptions:
 
 ![newplot (13)](https://github.com/user-attachments/assets/a54b0970-fa87-4a21-ae48-b49173d6b1a5)
 
-## Summary
+## Recommendations
 
 ### In general there are 2 approaches that Lending Club could take, the radical one or the more moderate solution.
 
